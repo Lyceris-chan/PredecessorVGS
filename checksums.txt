@@ -1,0 +1,5 @@
+d41d8cd98f00b204e9800998ecf8427e  checksums.txt
+445ea1f28e1bc3bbc080e3df01ade03c  Predecessor Ping recipes by Lacia-chan.xlsx
+e9471c917d7306f834f4375aaeee9fe0  PredecessorVGS.ahk
+2d12240d922f7401ee2ea1aa9cae7b52  PredecessorVGS.exe
+cc3b064adc1260b60fbfffb1fdaa5fda  README.md
