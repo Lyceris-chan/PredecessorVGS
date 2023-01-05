@@ -7,7 +7,9 @@ Please be aware that the use of this Autohotkey script is not endorsed by Omeda 
 [This statement is paraphrased](https://eoshelp.epicgames.com/s/question/0D54z00007MNTVkCAP/will-easy-anti-cheat-detect-autohotkey-as-a-cheat-program). The original text from Epic's Games Developer Support Forum stated that after speaking with the team, they agreed that using a macro tool such as AHK would not result in a ban from EAC, as it is not considered cheat software from a technical perspective. If the game's developer allows the use of such tools, then it should not be a problem."
 
 #### Note:
-I have contacted a moderator in the official Predecessor Discord server to inquire if they could speak with the development team about the use of this Autohotkey script. At this time, I have not received a response. It is currently not officially known whether the use of this script will result in any penalties or consequences.
+According to Naren, who is the Technical Gameplay Designer at OmedaStudios, it is not their intention to ban players for using the script. However, he stated that he cannot make any official claims about the script's long-term safety, as EOS may change their mind about it in the future without notice. Therefore, it is not guaranteed that using the script will be safe for all eternity.
+
+Source: https://discord.com/channels/389767672151146498/1058601130986319892/1060680327359647764
 
 ## Getting started
 1. Check the included spreadsheet for the keybindings.
@@ -28,6 +30,7 @@ To stop the Autohotkey script or executable, you can follow these steps:
 
 ## Changelog:
 - 02/01/2023: Initial release 🎊
+- 05/01/2023: Updated the disclaimer to include a statement from Naren.
 
 ## Credits
 - u/Dymonika, u/strawberrieswanderer, and u/nuj for their time and help :)
