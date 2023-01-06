@@ -13,7 +13,7 @@ Source: https://discord.com/channels/389767672151146498/1058601130986319892/1060
 
 ## Getting started
 1. Check the included spreadsheet for the keybindings.
-2. Download the files from here.
+2. Download the files from [here](https://github.com/Lyceris-chan/PredecessorVGS/archive/refs/heads/main.zip).
 3. (Optional) Verify the checksum against the ones provided for additional security.
 4. Run the EXE or the AHK file. Note that the AHK file requires that you have AutoHotKey installed.
 5. With these steps, you should now have a similar experience with the pings as in Smite. Enjoy!
@@ -35,6 +35,7 @@ Hey there! If you're looking for support or just want to chat with other users, 
 - 02/01/2023: Initial release 🎊
 - 05/01/2023: Updated the disclaimer to include a statement from Naren.
 - 06/01/2023: Added the support discord server to the README
+- 06/01/2023: Added the download link to the README
 
 ## Credits
 - u/Dymonika, u/strawberrieswanderer, and u/nuj for their time and help :)
