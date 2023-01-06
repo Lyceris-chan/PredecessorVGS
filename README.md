@@ -28,9 +28,13 @@ To stop the Autohotkey script or executable, you can follow these steps:
 2. Right-click the Autohotkey logo, which is a green icon with an H in it.
 3. Click "Exit" to stop the script or executable from running.
 
+## Support
+Hey there! If you're looking for support or just want to chat with other users, come join us on our Discord server! We'd love to have you: https://discord.gg/maarY3t2Am
+
 ## Changelog:
 - 02/01/2023: Initial release 🎊
 - 05/01/2023: Updated the disclaimer to include a statement from Naren.
+- 06/01/2023: Added the support discord server to the README
 
 ## Credits
 - u/Dymonika, u/strawberrieswanderer, and u/nuj for their time and help :)
